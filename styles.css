@@ -1,0 +1,130 @@
+
+  header, main, footer, article, body {
+      background-color: rgb(227, 174, 240);
+  }
+
+  html {
+        display: block;
+  }
+
+  h1.mainTitle {
+      font-size: 90px;
+      font-family: 'Courier New', Courier, monospace;
+      text-align: center;
+      border-bottom-style: solid;
+      color: azure;
+  }
+
+  p {
+      padding-left: 60px;
+      padding-right: 60px;
+      padding-top:20px;
+      padding-bottom: 20px;
+      font-size: 20px;
+      font-family: 'Courier New', Courier, monospace;
+  }
+
+  h1 {
+      font-size: 70px;
+      font-family: 'Courier New', Courier, monospace;
+      color: azure;
+      padding: 5px 60px 20px 60px;
+  }
+
+  h4, ul {
+      margin-left: 60px;
+      font-family: 'Courier New', Courier, monospace;
+  }
+
+  figcaption {
+      font-family: 'Courier New', Courier, monospace;
+      color: azure;
+      font-weight: bold;
+  }
+
+  #fool {
+      display: table-caption;
+      caption-side: bottom;
+      padding-left: 20px;
+  }
+  
+  figure {
+      padding-left: 20px;
+      padding-right: 20px;
+  }
+
+  #spaceshipTitle {
+      text-align: center;
+  }
+
+  #figureCorn {
+      text-align: center;
+  }
+
+  #foolImage {
+      display: table;
+  }
+
+  #orbitTitle {
+      text-align: right;
+  }
+
+  #flags {
+      text-align: right;
+  }
+
+  #author{
+      text-align: center;
+      font-size: 20px;
+      padding-top: 1px;
+  }
+
+  #cornParagraph {
+      text-align: center;
+  }
+
+  #orbitParagraph {
+      text-align: right;
+      padding-left: 400px;
+  }
+
+  #orbitImages {
+      text-align: right;
+  }
+
+  #foolParagraph {
+      text-align: left;
+      padding-right: 400px;
+  }
+
+  #missionScrubbedParagraph {
+      padding-right: 400px;
+  }
+
+  #blackHoleTitle {
+      text-align: right;
+  }
+
+  #blackHoleImage {
+      text-align: right;
+  }
+
+  #blackHoleParagraph {
+      text-align: right;
+      padding-left: 400px;
+  }
+
+  #launchCodeImage {
+      padding-right: 400px;
+  }
+
+  #launchCodeParagraph {
+      padding-right: 400px;
+  }
+
+  #chariotImage {
+      text-align: center;
+      margin: 70px
+  }
+
+  
